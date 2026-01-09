@@ -7,8 +7,6 @@ Aplicação mobile desenvolvida em React Native com Expo para gerenciamento de t
 - **Dashboard**: Gráficos e análises financeiras com animações
 - **Listagem de Transações**: Filtros avançados, scroll infinito e integração com Firestore
 - **Adicionar/Editar Transações**: Validação avançada e upload de recibos no Firebase Storage
-- **Autenticação**: Sistema de login com Firebase Authentication
-- **Armazenamento em Cloud**: Firestore para dados e Storage para arquivos
 
 ## Tecnologias
 
@@ -34,6 +32,10 @@ A aplicação usa **AsyncStorage** para armazenar dados localmente no dispositiv
 ```bash
 npm start
 ```
+
+## Login
+
+``` Email: teste@teste.com Senha: 123456 ```
 
 ## Estrutura do Projeto
 
